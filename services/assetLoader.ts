@@ -1,5 +1,6 @@
 
 import { Question } from '../types';
+import questionsData from '../data/questions.json';
 
 // Module-level caches to hold promises for each asset.
 // This ensures that we only trigger a fetch/load once per asset.
@@ -13,20 +14,9 @@ const fetchQuestionsInternal = (): Promise<Question[]> => {
     if (questionsPromiseCache) {
         return questionsPromiseCache;
     }
-    questionsPromiseCache = fetch('/data/questions.json')
-        .then(response => {
-            if (!response.ok) {
-                // Allow retrying by resetting the promise on failure.
-                questionsPromiseCache = null;
-                throw new Error(`Could not load questions (status: ${response.status}).`);
-            }
-            return response.json();
-        })
-        .catch(error => {
-            // Also allow retrying on network errors.
-            questionsPromiseCache = null;
-            throw error;
-        });
+    // By importing the JSON directly, we bypass the need for a network request.
+    // We wrap the static data in a resolved promise to fit the existing async structure.
+    questionsPromiseCache = Promise.resolve(questionsData as Question[]);
     return questionsPromiseCache;
 };
 
@@ -68,6 +58,7 @@ export const loadGameAssets = (): Promise<{ questions: Question[] }> => {
             }
 
             const imagePromises = imageUrls.map(preloadImageInternal);
+            // Now gets the questions from the imported static data.
             const questionsPromise = fetchQuestionsInternal();
 
             const [, questions] = await Promise.all([
