@@ -1,0 +1,61 @@
+
+@font-face {
+  font-family: 'Cowboy Western';
+  src: url('/fonts/Cowboy_Western_Spaced.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  overflow: hidden;
+}
+
+body {
+  @apply bg-slate-900 text-white;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Custom styles for the volume slider */
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type='range']:focus {
+  outline: none;
+}
+
+/* Track */
+input[type='range']::-webkit-slider-runnable-track {
+  @apply bg-slate-700 h-1 rounded-full;
+}
+input[type='range']::-moz-range-track {
+  @apply bg-slate-700 h-1 rounded-full;
+}
+
+/* Thumb */
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  margin-top: -6px; /* center thumb on track */
+  @apply bg-cyan-400 h-4 w-4 rounded-full border-2 border-slate-900;
+  transition: background-color 0.2s ease-in-out;
+}
+input[type='range']::-webkit-slider-thumb:hover {
+    @apply bg-cyan-300;
+}
+
+input[type='range']::-moz-range-thumb {
+  @apply bg-cyan-400 h-4 w-4 rounded-full border-2 border-slate-900;
+  transition: background-color 0.2s ease-in-out;
+}
+input[type='range']::-moz-range-thumb:hover {
+    @apply bg-cyan-300;
+}

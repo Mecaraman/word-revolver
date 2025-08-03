@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "question": "SLOWCARRISES",
+    "answer": "slow car rises",
+    "korean_meaning": "느린 차가 떠오른다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 2,
+    "question": "WINDGROWS",
+    "answer": "wind grows",
+    "korean_meaning": "바람이 자란다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 3,
+    "question": "DOGLAUGHS",
+    "answer": "dog laughs",
+    "korean_meaning": "개가 웃는다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 4,
+    "question": "WINDSHINES",
+    "answer": "wind shines",
+    "korean_meaning": "바람이 빛난다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 5,
+    "question": "APPLEBLOOMS",
+    "answer": "apple blooms",
+    "korean_meaning": "사과가 피어난다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 6,
+    "question": "STUDENTRUNS",
+    "answer": "student runs",
+    "korean_meaning": "학생이 뛴다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 7,
+    "question": "LONGKIDREADS",
+    "answer": "long kid reads",
+    "korean_meaning": "긴 아이가 읽는다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 8,
+    "question": "FATHERSLEEPS",
+    "answer": "father sleeps",
+    "korean_meaning": "아버지가 잔다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 9,
+    "question": "TEACHEREATS",
+    "answer": "teacher eats",
+    "korean_meaning": "선생님이 먹는다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 10,
+    "question": "ROADBLOOMS",
+    "answer": "road blooms",
+    "korean_meaning": "도로가 피어난다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 11,
+    "question": "FRIENDMOVESTEACHER",
+    "answer": "friend moves teacher",
+    "korean_meaning": "친구가 움직인다 선생님",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 12,
+    "question": "TREEWAITSTABLE",
+    "answer": "tree waits table",
+    "korean_meaning": "나무가 기다린다 테이블",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 13,
+    "question": "FATHERSMILESPAPER",
+    "answer": "father smiles paper",
+    "korean_meaning": "아버지가 웃는다 종이",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 14,
+    "question": "GLASSSETSBOOK",
+    "answer": "glass sets book",
+    "korean_meaning": "유리가 진다 책",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 15,
+    "question": "BIRDEATSFLOWER",
+    "answer": "bird eats flower",
+    "korean_meaning": "새가 먹는다 꽃",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 16,
+    "question": "CATRUNSTIME",
+    "answer": "cat runs time",
+    "korean_meaning": "고양이가 뛴다 시간",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 17,
+    "question": "FISHSLEEPSTABLE",
+    "answer": "fish sleeps table",
+    "korean_meaning": "물고기가 잔다 테이블",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 18,
+    "question": "PICTUREBENDSBOOK",
+    "answer": "picture bends book",
+    "korean_meaning": "그림이 구부러진다 책",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 19,
+    "question": "GARDENROLLSBIRD",
+    "answer": "garden rolls bird",
+    "korean_meaning": "정원이 굴러간다 새",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 20,
+    "question": "CLOUDBLOOMSPEN",
+    "answer": "cloud blooms pen",
+    "korean_meaning": "구름이 피어난다 펜",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 21,
+    "question": "BIGBROTHERREADS",
+    "answer": "big brother reads",
+    "korean_meaning": "큰 형제가 읽는다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 22,
+    "question": "SLOWSTUDENTPLAYS",
+    "answer": "slow student plays",
+    "korean_meaning": "느린 학생이 논다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 23,
+    "question": "YOUNGFATHERTEACHES",
+    "answer": "young father teaches",
+    "korean_meaning": "어린 아버지가 가르친다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 24,
+    "question": "HAPPYSTUDENTCRIES",
+    "answer": "happy student cries",
+    "korean_meaning": "행복한 학생이 운다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 25,
+    "question": "BLUEFATHERJUMPS",
+    "answer": "blue father jumps",
+    "korean_meaning": "파란 아버지가 뛴다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 26,
+    "question": "BRIGHTCHILDCRIES",
+    "answer": "bright child cries",
+    "korean_meaning": "밝은 아이가 운다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 27,
+    "question": "LONGPARKOPENS",
+    "answer": "long park opens",
+    "korean_meaning": "긴 공원이 열린다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 28,
+    "question": "TALLSISTERPLAYS",
+    "answer": "tall sister plays",
+    "korean_meaning": "키 큰 자매가 논다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 29,
+    "question": "QUIETBIRDFLIES",
+    "answer": "quiet bird flies",
+    "korean_meaning": "조용한 새가 날아간다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 30,
+    "question": "YOUNGGLASSRISES",
+    "answer": "young glass rises",
+    "korean_meaning": "어린 유리가 떠오른다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 31,
+    "question": "KIDEARLYSMILES",
+    "answer": "kid early smiles",
+    "korean_meaning": "아이가 이른 웃는다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 32,
+    "question": "TEACHERLOUDLYJUMPS",
+    "answer": "teacher loudly jumps",
+    "korean_meaning": "선생님이 시끄럽게 뛴다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 33,
+    "question": "BROTHERBRIGHTLY",
+    "answer": "brother brightly",
+    "korean_meaning": "형제가 밝게",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 34,
+    "question": "FRIENDQUIETLY",
+    "answer": "friend quietly",
+    "korean_meaning": "친구가 조용히",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 35,
+    "question": "SCHOOLQUIETLYFALLS",
+    "answer": "school quietly falls",
+    "korean_meaning": "학교가 조용히 떨어진다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 36,
+    "question": "FATHERSLOWLYSWIMS",
+    "answer": "father slowly swims",
+    "korean_meaning": "아버지가 천천히 수영한다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 37,
+    "question": "FISHCALMLYSWIMS",
+    "answer": "fish calmly swims",
+    "korean_meaning": "물고기가 차분하게 수영한다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 38,
+    "question": "PENSIMPLYRISES",
+    "answer": "pen simply rises",
+    "korean_meaning": "펜이 간단히 떠오른다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 39,
+    "question": "CAKEEASILYFLOWS",
+    "answer": "cake easily flows",
+    "korean_meaning": "케이크가 쉽게 흐른다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 40,
+    "question": "FRIENDBRIGHTLY",
+    "answer": "friend brightly",
+    "korean_meaning": "친구가 밝게",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 41,
+    "question": "SHORTCAKEFALLS",
+    "answer": "short cake falls",
+    "korean_meaning": "짧은 케이크가 떨어진다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 42,
+    "question": "SMARTCHILDTEACHES",
+    "answer": "smart child teaches",
+    "korean_meaning": "똑똑한 아이가 가르친다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 43,
+    "question": "NEWBROTHERJUMPS",
+    "answer": "new brother jumps",
+    "korean_meaning": "새로운 형제가 뛴다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 44,
+    "question": "YOUNGRAINMOVES",
+    "answer": "young rain moves",
+    "korean_meaning": "어린 비가 움직인다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 45,
+    "question": "TALLWINDSETSRIVER",
+    "answer": "tall wind sets river",
+    "korean_meaning": "키 큰 바람이 진다 강",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 46,
+    "question": "KINDWINDOWSHINES",
+    "answer": "kind window shines",
+    "korean_meaning": "친절한 창문이 빛난다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 47,
+    "question": "NEWFISHSLEEPS",
+    "answer": "new fish sleeps",
+    "korean_meaning": "새로운 물고기가 잔다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 48,
+    "question": "BRIGHTBIRDFLOWS",
+    "answer": "bright bird flows",
+    "korean_meaning": "밝은 새가 흐른다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 49,
+    "question": "SWEETTEACHERFLOWS",
+    "answer": "sweet teacher flows",
+    "korean_meaning": "달콤한 선생님이 흐른다",
+    "ascii_art": "  /^\\\n /   \\n/_____\\"
+  },
+  {
+    "id": 50,
+    "question": "SHORTFOODSTANDS",
+    "answer": "short food stands",
+    "korean_meaning": "짧은 음식이 선다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 51,
+    "question": "SISTERSLEEPSBESIDE",
+    "answer": "sister sleeps beside",
+    "korean_meaning": "자매가 잔다 옆에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 52,
+    "question": "FRIENDMELTSON",
+    "answer": "friend melts on",
+    "korean_meaning": "친구가 녹는다 위에",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 53,
+    "question": "BABYEATSTHROUGHOUT",
+    "answer": "baby eats throughout",
+    "korean_meaning": "아기가 먹는다 전역에",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 54,
+    "question": "CHILDMELTSBETWEEN",
+    "answer": "child melts between",
+    "korean_meaning": "아이가 녹는다 사이에",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 55,
+    "question": "SISTERREADSBESIDE",
+    "answer": "sister reads beside",
+    "korean_meaning": "자매가 읽는다 옆에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 56,
+    "question": "BABYGROWSWITHIN",
+    "answer": "baby grows within",
+    "korean_meaning": "아기가 자란다 내부에",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 57,
+    "question": "FOODBLOOMSALONG",
+    "answer": "food blooms along",
+    "korean_meaning": "음식이 피어난다 따라",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 58,
+    "question": "SCHOOLMOVESAROUND",
+    "answer": "school moves around",
+    "korean_meaning": "학교가 움직인다 주변에",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 59,
+    "question": "STUDENTFLOWSWITHIN",
+    "answer": "student flows within",
+    "korean_meaning": "학생이 흐른다 내부에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 60,
+    "question": "STORYCLOSES",
+    "answer": "story closes",
+    "korean_meaning": "이야기가 닫힌다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 61,
+    "question": "TEACHERREADSSTILL",
+    "answer": "teacher reads still",
+    "korean_meaning": "선생님이 읽는다 여전히",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 62,
+    "question": "WINDCLOSESALTHOUGH",
+    "answer": "wind closes although",
+    "korean_meaning": "바람이 닫힌다 비록",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 63,
+    "question": "MUSICRISESBUT",
+    "answer": "music rises but",
+    "korean_meaning": "음악이 떠오른다 하지만",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 64,
+    "question": "FRIENDLAUGHS",
+    "answer": "friend laughs",
+    "korean_meaning": "친구가 웃는다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 65,
+    "question": "BROTHERCRIESBUT",
+    "answer": "brother cries but",
+    "korean_meaning": "형제가 운다 하지만",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 66,
+    "question": "CLOUDWAITS",
+    "answer": "cloud waits",
+    "korean_meaning": "구름이 기다린다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 67,
+    "question": "FRIENDREADSBECAUSE",
+    "answer": "friend reads because",
+    "korean_meaning": "친구가 읽는다 때문에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 68,
+    "question": "KIDREADSBUTFAMILY",
+    "answer": "kid reads but family",
+    "korean_meaning": "아이가 읽는다 하지만 가족",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 69,
+    "question": "MOONGROWS",
+    "answer": "moon grows",
+    "korean_meaning": "달이 자란다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 70,
+    "question": "FLOWERFLOWSBUT",
+    "answer": "flower flows but",
+    "korean_meaning": "꽃이 흐른다 하지만",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 71,
+    "question": "CHILDSWIMSBECAUSE",
+    "answer": "child swims because",
+    "korean_meaning": "아이가 수영한다 때문에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 72,
+    "question": "TEACHEREATSBECAUSE",
+    "answer": "teacher eats because",
+    "korean_meaning": "선생님이 먹는다 때문에",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 73,
+    "question": "DOGWALKSBECAUSE",
+    "answer": "dog walks because",
+    "korean_meaning": "개가 걷는다 때문에",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 74,
+    "question": "CATWALKSBECAUSE",
+    "answer": "cat walks because",
+    "korean_meaning": "고양이가 걷는다 때문에",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 75,
+    "question": "RAINWAITSBECAUSE",
+    "answer": "rain waits because",
+    "korean_meaning": "비가 기다린다 때문에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 76,
+    "question": "FATHERLAUGHS",
+    "answer": "father laughs",
+    "korean_meaning": "아버지가 웃는다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 77,
+    "question": "FOODCLOSESBECAUSE",
+    "answer": "food closes because",
+    "korean_meaning": "음식이 닫힌다 때문에",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 78,
+    "question": "GLASSWAITSBECAUSE",
+    "answer": "glass waits because",
+    "korean_meaning": "유리가 기다린다 때문에",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 79,
+    "question": "CHAIRROLLSBECAUSE",
+    "answer": "chair rolls because",
+    "korean_meaning": "의자가 굴러간다 때문에",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 80,
+    "question": "BABYSMILESBECAUSE",
+    "answer": "baby smiles because",
+    "korean_meaning": "아기가 웃는다 때문에",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 81,
+    "question": "GARDENBLOOMSWHILE",
+    "answer": "garden blooms while",
+    "korean_meaning": "정원이 피어난다 하는 동안",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 82,
+    "question": "ROADBLOWSWHILE",
+    "answer": "road blows while",
+    "korean_meaning": "도로가 분다 하는 동안",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 83,
+    "question": "CLOUDOPENSWHILE",
+    "answer": "cloud opens while",
+    "korean_meaning": "구름이 열린다 하는 동안",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 84,
+    "question": "STORYBLOWSWHILE",
+    "answer": "story blows while",
+    "korean_meaning": "이야기가 분다 하는 동안",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 85,
+    "question": "CARCLOSESWHILE",
+    "answer": "car closes while",
+    "korean_meaning": "차가 닫힌다 하는 동안",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 86,
+    "question": "FATHERTALKSWHILE",
+    "answer": "father talks while",
+    "korean_meaning": "아버지가 말한다 하는 동안",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 87,
+    "question": "GLASSMELTSWHILE",
+    "answer": "glass melts while",
+    "korean_meaning": "유리가 녹는다 하는 동안",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 88,
+    "question": "SISTERSTUDIESWHILE",
+    "answer": "sister studies while",
+    "korean_meaning": "자매가 공부한다 하는 동안",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 89,
+    "question": "BABYTEACHESWHILE",
+    "answer": "baby teaches while",
+    "korean_meaning": "아기가 가르친다 하는 동안",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 90,
+    "question": "PHONEDRIESWHILE",
+    "answer": "phone dries while",
+    "korean_meaning": "전화기가 마른다 하는 동안",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 91,
+    "question": "BROTHERFLIESTO",
+    "answer": "brother flies to",
+    "korean_meaning": "형제가 날아간다 위해",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 92,
+    "question": "MOTHERREADSTO",
+    "answer": "mother reads to",
+    "korean_meaning": "어머니가 읽는다 위해",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 93,
+    "question": "FISHCRIESTOBLOOMS",
+    "answer": "fish cries to blooms",
+    "korean_meaning": "물고기가 운다 위해 피어난다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 94,
+    "question": "PICTUREWAITSTO",
+    "answer": "picture waits to",
+    "korean_meaning": "그림이 기다린다 위해",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 95,
+    "question": "TEACHERFLIESTO",
+    "answer": "teacher flies to",
+    "korean_meaning": "선생님이 날아간다 위해",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 96,
+    "question": "BROTHERLAUGHSTO",
+    "answer": "brother laughs to",
+    "korean_meaning": "형제가 웃는다 위해",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 97,
+    "question": "STUDENTSWIMSTO",
+    "answer": "student swims to",
+    "korean_meaning": "학생이 수영한다 위해",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 98,
+    "question": "TABLEBENDSTO",
+    "answer": "table bends to",
+    "korean_meaning": "테이블이 구부러진다 위해",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 99,
+    "question": "FATHERFLIESTO",
+    "answer": "father flies to",
+    "korean_meaning": "아버지가 날아간다 위해",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 100,
+    "question": "TEACHERJUMPSTO",
+    "answer": "teacher jumps to",
+    "korean_meaning": "선생님이 뛴다 위해",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 101,
+    "question": "BUSYDOCTORGUIDEBOLDLY",
+    "answer": "busy doctor guide boldly",
+    "korean_meaning": "바쁜 의사가 안내하다 대담하게",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 102,
+    "question": "MYSTERIOUSMEMORYASSEMBLE",
+    "answer": "mysterious memory assemble",
+    "korean_meaning": "신비로운 기억이 조립하다",
+    "ascii_art": "   /\\\n  /  \\\n /____\\"
+  },
+  {
+    "id": 103,
+    "question": "WEAKLANGUAGETRANSLATE",
+    "answer": "weak language translate",
+    "korean_meaning": "weak 언어가 번역하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 104,
+    "question": "TALLDOCTORSTUDYLUCKILY",
+    "answer": "tall doctor study luckily",
+    "korean_meaning": "키 큰 의사가 연구하다 운 좋게",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 105,
+    "question": "CREATIVETEMPLEMEASURE",
+    "answer": "creative temple measure",
+    "korean_meaning": "창의적인 사원이 측정하다",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 106,
+    "question": "BUSYTEACHERLEARNBRIGHTLY",
+    "answer": "busy teacher learn brightly",
+    "korean_meaning": "바쁜 선생님이 배우다 밝게",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 107,
+    "question": "MODERNSTUDENTTRAVEL",
+    "answer": "modern student travel",
+    "korean_meaning": "현대적인 학생이 여행하다",
+    "ascii_art": "   *\n  * *\n *   *\n  * *\n   *"
+  },
+  {
+    "id": 108,
+    "question": "SHORTSTUDENTSTUDYTRULY",
+    "answer": "short student study truly",
+    "korean_meaning": "짧은 학생이 연구하다 진정으로",
+    "ascii_art": "   *\n  * *\n *   *\n  * *\n   *"
+  },
+  {
+    "id": 109,
+    "question": "GENTLECULTURETRANSLATE",
+    "answer": "gentle culture translate",
+    "korean_meaning": "상냥한 문화가 번역하다",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 110,
+    "question": "HARDSTUDENTTRAVELSUDDENLY",
+    "answer": "hard student travel suddenly",
+    "korean_meaning": "딱딱한 학생이 여행하다 갑자기",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 111,
+    "question": "TEACHERORGANIZEMUSIC",
+    "answer": "teacher organize music",
+    "korean_meaning": "선생님이 조직하다 음악",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 112,
+    "question": "STUDENTINVENTLIBRARY",
+    "answer": "student invent library",
+    "korean_meaning": "학생이 발명하다 도서관",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 113,
+    "question": "UNIVERSITYREFLECTCOMMUNITY",
+    "answer": "university reflect community",
+    "korean_meaning": "대학교가 반영하다 공동체",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 114,
+    "question": "TEACHERCHALLENGEOCEAN",
+    "answer": "teacher challenge ocean",
+    "korean_meaning": "선생님이 도전하다 바다",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 115,
+    "question": "STUDENTESTIMATECULTURE",
+    "answer": "student estimate culture",
+    "korean_meaning": "학생이 추정하다 문화",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 116,
+    "question": "STUDENTTRANSFORMLANGUAGE",
+    "answer": "student transform language",
+    "korean_meaning": "학생이 변화시키다 언어",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 117,
+    "question": "STRONGTEACHERSTUDYCITY",
+    "answer": "strong teacher study city",
+    "korean_meaning": "strong 선생님이 연구하다 도시",
+    "ascii_art": "   .    .\n .  .  .\n   .    ."
+  },
+  {
+    "id": 118,
+    "question": "TEMPLEEXAMINEPLANET",
+    "answer": "temple examine planet",
+    "korean_meaning": "사원이 조사하다 행성",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 119,
+    "question": "DOCTORCOMPOSEHISTORY",
+    "answer": "doctor compose history",
+    "korean_meaning": "의사가 작곡하다 역사",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 120,
+    "question": "MUSEUMTRANSLATEDOCTOR",
+    "answer": "museum translate doctor",
+    "korean_meaning": "박물관이 번역하다 의사",
+    "ascii_art": "  ♪  ♪\n ♪ ♪\n  ♪♪"
+  },
+  {
+    "id": 121,
+    "question": "WILDMOUNTAINDEVELOP",
+    "answer": "wild mountain develop",
+    "korean_meaning": "야생의 산이 발전하다",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 122,
+    "question": "COLORFULPROJECTASSEMBLE",
+    "answer": "colorful project assemble",
+    "korean_meaning": "다채로운 프로젝트가 조립하다",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 123,
+    "question": "CLASSICCOUNTRYDESTROY",
+    "answer": "classic country destroy",
+    "korean_meaning": "고전적인 나라가 파괴하다",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 124,
+    "question": "PEACEFULSUBWAYEXPLORE",
+    "answer": "peaceful subway explore",
+    "korean_meaning": "평화로운 지하철이 탐험하다",
+    "ascii_art": " |----|\n |    |\n |____|"
+  },
+  {
+    "id": 125,
+    "question": "GENTLETEACHERTEACH",
+    "answer": "gentle teacher teach",
+    "korean_meaning": "상냥한 선생님이 가르치다",
+    "ascii_art": "   *\n  * *\n *   *\n  * *\n   *"
+  },
+  {
+    "id": 126,
+    "question": "SERENEMODERNDOCTORGUIDE",
+    "answer": "serene modern doctor guide",
+    "korean_meaning": "고요한 현대적인 의사가 안내하다",
+    "ascii_art": "   *\n  * *\n *   *\n  * *\n   *"
+  },
+  {
+    "id": 127,
+    "question": "CLASSICDOCTORTRAVEL",
+    "answer": "classic doctor travel",
+    "korean_meaning": "고전적인 의사가 여행하다",
+    "ascii_art": "   *\n  * *\n *   *\n  * *\n   *"
+  },
+  {
+    "id": 128,
+    "question": "COMPLEXTEACHERGUIDE",
+    "answer": "complex teacher guide",
+    "korean_meaning": "complex 선생님이 안내하다",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 129,
+    "question": "VIBRANTSTUDENTTEACH",
+    "answer": "vibrant student teach",
+    "korean_meaning": "활기찬 학생이 가르치다",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 130,
+    "question": "ELEGANTMOUNTAINIMPROVE",
+    "answer": "elegant mountain improve",
+    "korean_meaning": "우아한 산이 개선하다",
+    "ascii_art": "   /\\\n  /  \\\n /____\\"
+  },
+  {
+    "id": 131,
+    "question": "STUDENTHOPEFULLYGUIDE",
+    "answer": "student hopefully guide",
+    "korean_meaning": "학생이 희망적으로 안내하다",
+    "ascii_art": "   /\\\n  /  \\\n /____\\"
+  },
+  {
+    "id": 132,
+    "question": "PICTURESTRANGELYMEASURE",
+    "answer": "picture strangely measure",
+    "korean_meaning": "그림이 이상하게 측정하다",
+    "ascii_art": "   /\\\n  /  \\\n /____\\"
+  },
+  {
+    "id": 133,
+    "question": "UNIQUEDOCTORGENTLYSTUDY",
+    "answer": "unique doctor gently study",
+    "korean_meaning": "독특한 의사가 부드럽게 연구하다",
+    "ascii_art": "   .    .\n .  .  .\n   .    ."
+  },
+  {
+    "id": 134,
+    "question": "STUDENTSTRANGELYTEACH",
+    "answer": "student strangely teach",
+    "korean_meaning": "학생이 이상하게 가르치다",
+    "ascii_art": "   .    .\n .  .  .\n   .    ."
+  },
+  {
+    "id": 135,
+    "question": "TEACHERSILENTLYTRAVEL",
+    "answer": "teacher silently travel",
+    "korean_meaning": "선생님이 조용히 여행하다",
+    "ascii_art": "   .    .\n .  .  .\n   .    ."
+  },
+  {
+    "id": 136,
+    "question": "LANGUAGEPROUDLYMEASURE",
+    "answer": "language proudly measure",
+    "korean_meaning": "언어가 자랑스럽게 측정하다",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 137,
+    "question": "MEADOWPROUDLYREFLECT",
+    "answer": "meadow proudly reflect",
+    "korean_meaning": "초원이 자랑스럽게 반영하다",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 138,
+    "question": "STUDENTREGULARLYTRAVEL",
+    "answer": "student regularly travel",
+    "korean_meaning": "학생이 정기적으로 여행하다",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 139,
+    "question": "CASTLESINCERELYASSEMBLE",
+    "answer": "castle sincerely assemble",
+    "korean_meaning": "성이 진심으로 조립하다",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 140,
+    "question": "STUDENTLUCKILYLEARN",
+    "answer": "student luckily learn",
+    "korean_meaning": "학생이 운 좋게 배우다",
+    "ascii_art": "   /\\\n  /  \\\n /____\\"
+  },
+  {
+    "id": 141,
+    "question": "UNIQUEUNIVERSITYESTIMATECOMMUNITY",
+    "answer": "unique university estimate community",
+    "korean_meaning": "독특한 대학교가 추정하다 공동체",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 142,
+    "question": "ANCIENTDOCTORRECORDAIRPLANE",
+    "answer": "ancient doctor record airplane",
+    "korean_meaning": "ancient 의사가 기록하다 비행기",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 143,
+    "question": "TALLPALACEDISCOVERCAMPUS",
+    "answer": "tall palace discover campus",
+    "korean_meaning": "키 큰 궁전이 발견하다 캠퍼스",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 144,
+    "question": "SPLENDIDSTUDENTOBSERVEJOURNEY",
+    "answer": "splendid student observe journey",
+    "korean_meaning": "훌륭한 학생이 관찰하다 여행",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 145,
+    "question": "ELEGANTSCIENCEANALYZETEACHER",
+    "answer": "elegant science analyze teacher",
+    "korean_meaning": "우아한 과학이 분석하다 선생님",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 146,
+    "question": "RICHFORESTEXPLAINJOURNEY",
+    "answer": "rich forest explain journey",
+    "korean_meaning": "풍부한 숲이 설명하다 여행",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 147,
+    "question": "CLEVERSTUDENTINVENTAIRPLANE",
+    "answer": "clever student invent airplane",
+    "korean_meaning": "영리한 학생이 발명하다 비행기",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 148,
+    "question": "RICHDOCTORLEARNCITY",
+    "answer": "rich doctor learn city",
+    "korean_meaning": "풍부한 의사가 배우다 도시",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 149,
+    "question": "SERENESTUDENTLEARNUNIVERSE",
+    "answer": "serene student learn universe",
+    "korean_meaning": "고요한 학생이 배우다 우주",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 150,
+    "question": "UNIQUEDOCTOREXAMINEPROJECT",
+    "answer": "unique doctor examine project",
+    "korean_meaning": "독특한 의사가 조사하다 프로젝트",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 151,
+    "question": "DOCTORSOLVEINSIDEHISTORY",
+    "answer": "doctor solve inside history",
+    "korean_meaning": "의사가 해결하다 내부에 역사",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 152,
+    "question": "FESTIVALIMPROVEINSIDEVALLEY",
+    "answer": "festival improve inside valley",
+    "korean_meaning": "축제가 개선하다 내부에 계곡",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 153,
+    "question": "PLANETCREATEINSUBWAY",
+    "answer": "planet create in subway",
+    "korean_meaning": "행성이 창조하다 안에 지하철",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 154,
+    "question": "DOCTORLEARNBEYONDVALLEY",
+    "answer": "doctor learn beyond valley",
+    "korean_meaning": "의사가 배우다 너머에 계곡",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 155,
+    "question": "AIRPLANEINVENTINHISTORY",
+    "answer": "airplane invent in history",
+    "korean_meaning": "비행기가 발명하다 안에 역사",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 156,
+    "question": "TEACHERSTUDYBEYONDVILLAGE",
+    "answer": "teacher study beyond village",
+    "korean_meaning": "선생님이 연구하다 너머에 마을",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 157,
+    "question": "RIVERBANKCHALLENGETHROUGHOUTFOREST",
+    "answer": "riverbank challenge throughout forest",
+    "korean_meaning": "강변이 도전하다 전역에 숲",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 158,
+    "question": "VALLEYANALYZEAROUNDPLANET",
+    "answer": "valley analyze around planet",
+    "korean_meaning": "계곡이 분석하다 주변에 행성",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 159,
+    "question": "MARKETMEASUREABOVECITY",
+    "answer": "market measure above city",
+    "korean_meaning": "시장이 측정하다 위에 도시",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 160,
+    "question": "VILLAGESOLVEUNDERPROJECT",
+    "answer": "village solve under project",
+    "korean_meaning": "마을이 해결하다 아래에 프로젝트",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 161,
+    "question": "SCIENCETRANSLATEMOREOVEROCEANSOLVE",
+    "answer": "science translate moreover ocean solve",
+    "korean_meaning": "과학이 번역하다 게다가 바다 해결하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 162,
+    "question": "STUDENTSTUDYHOWEVERTEACHERLEARN",
+    "answer": "student study however teacher learn",
+    "korean_meaning": "학생이 연구하다 그러나 선생님 배우다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 163,
+    "question": "OCEANPRESENTSOTEACHERTEACH",
+    "answer": "ocean present so teacher teach",
+    "korean_meaning": "바다가 발표하다 그래서 선생님 가르치다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 164,
+    "question": "STUDENTLEARNALTHOUGHFORESTMODIFY",
+    "answer": "student learn although forest modify",
+    "korean_meaning": "학생이 배우다 비록 숲 수정하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 165,
+    "question": "STUDENTTEACHMEANWHILEDOCTORLEARN",
+    "answer": "student teach meanwhile doctor learn",
+    "korean_meaning": "학생이 가르치다 그동안 의사 배우다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 166,
+    "question": "CULTURECONTROLBUTDOCTORGUIDE",
+    "answer": "culture control but doctor guide",
+    "korean_meaning": "문화가 통제하다 하지만 의사 안내하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 167,
+    "question": "MEADOWESTIMATETHEREFORELANGUAGE",
+    "answer": "meadow estimate therefore language",
+    "korean_meaning": "초원이 추정하다 그러므로 언어",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 168,
+    "question": "MOUNTAINDECIDEBUTCOUNTRYEXPLORE",
+    "answer": "mountain decide but country explore",
+    "korean_meaning": "산이 결정하다 하지만 나라 탐험하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 169,
+    "question": "DOCTORSTUDYYETTEACHERGUIDE",
+    "answer": "doctor study yet teacher guide",
+    "korean_meaning": "의사가 연구하다 하지만 선생님 안내하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 170,
+    "question": "ISLANDBUILDNEVERTHELESSSUBWAY",
+    "answer": "island build nevertheless subway",
+    "korean_meaning": "섬이 건설하다 그럼에도 불구하고 지하철",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 171,
+    "question": "STUDENTTEACHBECAUSEUNIVERSECONTROL",
+    "answer": "student teach because universe control",
+    "korean_meaning": "학생이 가르치다 때문에 우주 통제하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 172,
+    "question": "MEADOWESTIMATEBECAUSESTUDENTGUIDE",
+    "answer": "meadow estimate because student guide",
+    "korean_meaning": "초원이 추정하다 때문에 학생 안내하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 173,
+    "question": "MUSICDESTROYBECAUSEDOCTORSTUDY",
+    "answer": "music destroy because doctor study",
+    "korean_meaning": "음악이 파괴하다 때문에 의사 연구하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 174,
+    "question": "TEACHERGUIDEBECAUSEKNOWLEDGE",
+    "answer": "teacher guide because knowledge",
+    "korean_meaning": "선생님이 안내하다 때문에 지식",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 175,
+    "question": "PROJECTCONTROLBECAUSEDOCTORGUIDE",
+    "answer": "project control because doctor guide",
+    "korean_meaning": "프로젝트가 통제하다 때문에 의사 안내하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 176,
+    "question": "DOCTORSTUDYBECAUSETEACHERTEACH",
+    "answer": "doctor study because teacher teach",
+    "korean_meaning": "의사가 연구하다 때문에 선생님 가르치다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 177,
+    "question": "DOCTORSTUDYBECAUSEARTICLEEXPLAIN",
+    "answer": "doctor study because article explain",
+    "korean_meaning": "의사가 연구하다 때문에 기사 설명하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 178,
+    "question": "STUDENTTRAVELBECAUSETEACHERGUIDE",
+    "answer": "student travel because teacher guide",
+    "korean_meaning": "학생이 여행하다 때문에 선생님 안내하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 179,
+    "question": "DOCTORTEACHBECAUSEFORESTCONTROL",
+    "answer": "doctor teach because forest control",
+    "korean_meaning": "의사가 가르치다 때문에 숲 통제하다",
+    "ascii_art": "   /\\\n  (  )\n  /||\\\n ((  ))"
+  },
+  {
+    "id": 180,
+    "question": "DOCTORTRAVELBECAUSESTUDENTGUIDE",
+    "answer": "doctor travel because student guide",
+    "korean_meaning": "의사가 여행하다 때문에 학생 안내하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 181,
+    "question": "CULTUREMODIFYWHILETEACHERTRAVEL",
+    "answer": "culture modify while teacher travel",
+    "korean_meaning": "문화가 수정하다 하는 동안 선생님 여행하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 182,
+    "question": "BRIDGEMEASUREWHILEDOCTORLEARN",
+    "answer": "bridge measure while doctor learn",
+    "korean_meaning": "다리가 측정하다 하는 동안 의사 배우다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 183,
+    "question": "STUDENTGUIDEWHILEMUSEUMDECIDE",
+    "answer": "student guide while museum decide",
+    "korean_meaning": "학생이 안내하다 하는 동안 박물관 결정하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 184,
+    "question": "LEGENDDESTROYWHILEVALLEYSOLVE",
+    "answer": "legend destroy while valley solve",
+    "korean_meaning": "전설이 파괴하다 하는 동안 계곡 해결하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 185,
+    "question": "TEACHERGUIDEWHILESTUDENTSTUDY",
+    "answer": "teacher guide while student study",
+    "korean_meaning": "선생님이 안내하다 하는 동안 학생 연구하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 186,
+    "question": "CAMPUSCOMPAREWHILETEACHERLEARN",
+    "answer": "campus compare while teacher learn",
+    "korean_meaning": "캠퍼스가 비교하다 하는 동안 선생님 배우다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 187,
+    "question": "DESERTMODIFYWHILEKNOWLEDGEORGANIZE",
+    "answer": "desert modify while knowledge organize",
+    "korean_meaning": "사막이 수정하다 하는 동안 지식 조직하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 188,
+    "question": "DOCTORLEARNWHILETEACHERSTUDY",
+    "answer": "doctor learn while teacher study",
+    "korean_meaning": "의사가 배우다 하는 동안 선생님 연구하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 189,
+    "question": "STUDENTTEACHWHILEFESTIVALDESIGN",
+    "answer": "student teach while festival design",
+    "korean_meaning": "학생이 가르치다 하는 동안 축제 설계하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 190,
+    "question": "STORYREPORTWHILEHISTORYDEVELOP",
+    "answer": "story report while history develop",
+    "korean_meaning": "이야기가 보고하다 하는 동안 역사 발전하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 191,
+    "question": "STORYSOLVETOESTIMATE",
+    "answer": "story solve to estimate",
+    "korean_meaning": "이야기가 해결하다 위해 추정하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 192,
+    "question": "ISLANDSOLVETODISCOVER",
+    "answer": "island solve to discover",
+    "korean_meaning": "섬이 해결하다 위해 발견하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 193,
+    "question": "DOCTORGUIDETOANALYZE",
+    "answer": "doctor guide to analyze",
+    "korean_meaning": "의사가 안내하다 위해 분석하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 194,
+    "question": "STUDENTTEACHTOORGANIZE",
+    "answer": "student teach to organize",
+    "korean_meaning": "학생이 가르치다 위해 조직하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 195,
+    "question": "HISTORYREFLECTTODESIGN",
+    "answer": "history reflect to design",
+    "korean_meaning": "역사가 반영하다 위해 설계하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 196,
+    "question": "MUSEUMTRANSLATETODESTROY",
+    "answer": "museum translate to destroy",
+    "korean_meaning": "박물관이 번역하다 위해 파괴하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 197,
+    "question": "TEACHERGUIDETORECORD",
+    "answer": "teacher guide to record",
+    "korean_meaning": "선생님이 안내하다 위해 기록하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 198,
+    "question": "SUBWAYBUILDTOTEACH",
+    "answer": "subway build to teach",
+    "korean_meaning": "지하철이 건설하다 위해 가르치다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 199,
+    "question": "STUDENTSTUDYTOMODIFY",
+    "answer": "student study to modify",
+    "korean_meaning": "학생이 연구하다 위해 수정하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 200,
+    "question": "DOCTORTEACHTOEXPLAIN",
+    "answer": "doctor teach to explain",
+    "korean_meaning": "의사가 가르치다 위해 설명하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 201,
+    "question": "CURIOUSMUSEUMDISCOVER",
+    "answer": "curious museum discover",
+    "korean_meaning": "호기심 많은 박물관이 발견하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 202,
+    "question": "SIMPLEFESTIVALDEVELOP",
+    "answer": "simple festival develop",
+    "korean_meaning": "간단한 축제가 발전하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 203,
+    "question": "LIVELYDOCTORTEACHWHOLLY",
+    "answer": "lively doctor teach wholly",
+    "korean_meaning": "생생한 의사가 가르치다 완전히",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 204,
+    "question": "EMPTYISLANDCREATEBRAVELY",
+    "answer": "empty island create bravely",
+    "korean_meaning": "비어 있는 섬이 창조하다 용감하게",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 205,
+    "question": "DEEPDOCTORTEACHSUDDENLY",
+    "answer": "deep doctor teach suddenly",
+    "korean_meaning": "깊은 의사가 가르치다 갑자기",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 206,
+    "question": "MYSTERIOUSUNIVERSITYSIMULATE",
+    "answer": "mysterious university simulate",
+    "korean_meaning": "신비로운 대학교가 모의하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 207,
+    "question": "ELEGANTSCIENCEDEVELOP",
+    "answer": "elegant science develop",
+    "korean_meaning": "우아한 과학이 발전하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 208,
+    "question": "HARDSTUDENTTEACHPROUDLY",
+    "answer": "hard student teach proudly",
+    "korean_meaning": "딱딱한 학생이 가르치다 자랑스럽게",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 209,
+    "question": "RICHVALLEYCREATEDEEPLY",
+    "answer": "rich valley create deeply",
+    "korean_meaning": "풍부한 계곡이 창조하다 깊게",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 210,
+    "question": "SOFTDOCTORTRAVELREGULARLY",
+    "answer": "soft doctor travel regularly",
+    "korean_meaning": "부드러운 의사가 여행하다 정기적으로",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 211,
+    "question": "PALACEESTIMATECOUNTRY",
+    "answer": "palace estimate country",
+    "korean_meaning": "궁전이 추정하다 나라",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 212,
+    "question": "DOCTOREXPLORETECHNOLOGY",
+    "answer": "doctor explore technology",
+    "korean_meaning": "의사가 탐험하다 기술",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 213,
+    "question": "HISTORYEXAMINEMUSEUM",
+    "answer": "history examine museum",
+    "korean_meaning": "역사가 조사하다 박물관",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 214,
+    "question": "VALLEYDESIGNSCIENCE",
+    "answer": "valley design science",
+    "korean_meaning": "계곡이 설계하다 과학",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 215,
+    "question": "TEACHERINVENTCOMMUNITY",
+    "answer": "teacher invent community",
+    "korean_meaning": "선생님이 발명하다 공동체",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 216,
+    "question": "LIBRARYREPORTPLANET",
+    "answer": "library report planet",
+    "korean_meaning": "도서관이 보고하다 행성",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 217,
+    "question": "DOCTOREXPLOREPLANET",
+    "answer": "doctor explore planet",
+    "korean_meaning": "의사가 탐험하다 행성",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 218,
+    "question": "LEGENDDECIDETEACHER",
+    "answer": "legend decide teacher",
+    "korean_meaning": "전설이 결정하다 선생님",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 219,
+    "question": "GARDENEXAMINELIBRARY",
+    "answer": "garden examine library",
+    "korean_meaning": "정원이 조사하다 도서관",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 220,
+    "question": "STORYIMPROVETECHNOLOGY",
+    "answer": "story improve technology",
+    "korean_meaning": "이야기가 개선하다 기술",
+    "ascii_art": "   .-.\n  /   \\\n (_/\\_)\n  \\   /\n   `-`"
+  },
+  {
+    "id": 221,
+    "question": "COMPLEXISLANDMODIFY",
+    "answer": "complex island modify",
+    "korean_meaning": "complex 섬이 수정하다",
+    "ascii_art": "~~~~~~~\n ~~~~~\n  ~~~"
+  },
+  {
+    "id": 222,
+    "question": "COMPLEXBRAVETEACHERSTUDY",
+    "answer": "complex brave teacher study",
+    "korean_meaning": "complex 용감한 선생님이 연구하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 223,
+    "question": "HARDJOURNEYESTIMATE",
+    "answer": "hard journey estimate",
+    "korean_meaning": "딱딱한 여행이 추정하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 224,
+    "question": "CLASSICTEMPLEPRESENT",
+    "answer": "classic temple present",
+    "korean_meaning": "고전적인 사원이 발표하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 225,
+    "question": "LIVELYSTUDENTLEARN",
+    "answer": "lively student learn",
+    "korean_meaning": "생생한 학생이 배우다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 226,
+    "question": "MODERNTEACHERLEARN",
+    "answer": "modern teacher learn",
+    "korean_meaning": "현대적인 선생님이 배우다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 227,
+    "question": "MYSTERIOUSMEMORYPRESENT",
+    "answer": "mysterious memory present",
+    "korean_meaning": "신비로운 기억이 발표하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 228,
+    "question": "SHORTSERENEOCEANINVENT",
+    "answer": "short serene ocean invent",
+    "korean_meaning": "짧은 고요한 바다가 발명하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 229,
+    "question": "CREATIVESIMPLEDOCTORGUIDE",
+    "answer": "creative simple doctor guide",
+    "korean_meaning": "창의적인 간단한 의사가 안내하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 230,
+    "question": "PEACEFULBUSYTEACHERLEARN",
+    "answer": "peaceful busy teacher learn",
+    "korean_meaning": "평화로운 바쁜 선생님이 배우다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 231,
+    "question": "LANGUAGEWHOLLYCHALLENGE",
+    "answer": "language wholly challenge",
+    "korean_meaning": "언어가 완전히 도전하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 232,
+    "question": "TEACHERPROUDLYGUIDE",
+    "answer": "teacher proudly guide",
+    "korean_meaning": "선생님이 자랑스럽게 안내하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 233,
+    "question": "VALLEYREGULARLYORGANIZE",
+    "answer": "valley regularly organize",
+    "korean_meaning": "계곡이 정기적으로 조직하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 234,
+    "question": "AIRPLANERARELYSOLVE",
+    "answer": "airplane rarely solve",
+    "korean_meaning": "비행기가 드물게 해결하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 235,
+    "question": "CASTLECONSTANTLYINVENT",
+    "answer": "castle constantly invent",
+    "korean_meaning": "성이 끊임없이 발명하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 236,
+    "question": "PICTUREGENTLYDESTROY",
+    "answer": "picture gently destroy",
+    "korean_meaning": "그림이 부드럽게 파괴하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 237,
+    "question": "JOURNALHOPEFULLYREPORT",
+    "answer": "journal hopefully report",
+    "korean_meaning": "저널이 희망적으로 보고하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 238,
+    "question": "BRIDGESTEADILYMODIFY",
+    "answer": "bridge steadily modify",
+    "korean_meaning": "다리가 꾸준히 수정하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 239,
+    "question": "TEACHERUNIQUELYLEARN",
+    "answer": "teacher uniquely learn",
+    "korean_meaning": "선생님이 독특하게 배우다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 240,
+    "question": "RIVERBANKLUCKILYMODIFY",
+    "answer": "riverbank luckily modify",
+    "korean_meaning": "강변이 운 좋게 수정하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 241,
+    "question": "SHORTDOCTORREPORTTEACHER",
+    "answer": "short doctor report teacher",
+    "korean_meaning": "짧은 의사가 보고하다 선생님",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 242,
+    "question": "BRAVEJOURNEYBUILDHISTORY",
+    "answer": "brave journey build history",
+    "korean_meaning": "용감한 여행이 건설하다 역사",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 243,
+    "question": "MODERNPROJECTTRANSLATEUNIVERSE",
+    "answer": "modern project translate universe",
+    "korean_meaning": "현대적인 프로젝트가 번역하다 우주",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 244,
+    "question": "POWERFULDOCTORMEASURESTUDENT",
+    "answer": "powerful doctor measure student",
+    "korean_meaning": "강력한 의사가 측정하다 학생",
+    "ascii_art": "  ^  ^\n /|\\/|\\\n  |  |"
+  },
+  {
+    "id": 245,
+    "question": "MYSTERIOUSISLANDTRANSFORMKNOWLEDGE",
+    "answer": "mysterious island transform knowledge",
+    "korean_meaning": "신비로운 섬이 변화시키다 지식",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 246,
+    "question": "DISTANTMOUNTAINCONNECTSUBWAY",
+    "answer": "distant mountain connect subway",
+    "korean_meaning": "먼 산이 연결하다 지하철",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 247,
+    "question": "UNIQUETEACHERTRAVELISLAND",
+    "answer": "unique teacher travel island",
+    "korean_meaning": "독특한 선생님이 여행하다 섬",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 248,
+    "question": "CLEVERKNOWLEDGECOLLECTGARDEN",
+    "answer": "clever knowledge collect garden",
+    "korean_meaning": "영리한 지식이 수집하다 정원",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 249,
+    "question": "BUSYTEACHERCONTROLFOREST",
+    "answer": "busy teacher control forest",
+    "korean_meaning": "바쁜 선생님이 통제하다 숲",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 250,
+    "question": "SIMPLESUBWAYDEVELOPCOUNTRY",
+    "answer": "simple subway develop country",
+    "korean_meaning": "간단한 지하철이 발전하다 나라",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 251,
+    "question": "TEACHERPRESENTUNDERMOUNTAIN",
+    "answer": "teacher present under mountain",
+    "korean_meaning": "선생님이 발표하다 아래에 산",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 252,
+    "question": "DOCTOREXAMINEONMARKET",
+    "answer": "doctor examine on market",
+    "korean_meaning": "의사가 조사하다 위에 시장",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 253,
+    "question": "DOCTORDESIGNBETWEENTECHNOLOGY",
+    "answer": "doctor design between technology",
+    "korean_meaning": "의사가 설계하다 사이에 기술",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 254,
+    "question": "PICTURETRANSLATEOUTSIDEVILLAGE",
+    "answer": "picture translate outside village",
+    "korean_meaning": "그림이 번역하다 외부에 마을",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 255,
+    "question": "DOCTORDESTROYALONGVALLEY",
+    "answer": "doctor destroy along valley",
+    "korean_meaning": "의사가 파괴하다 따라 계곡",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 256,
+    "question": "TEACHERCONTROLAROUNDPALACE",
+    "answer": "teacher control around palace",
+    "korean_meaning": "선생님이 통제하다 주변에 궁전",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 257,
+    "question": "MUSICCOLLECTOUTSIDEOCEAN",
+    "answer": "music collect outside ocean",
+    "korean_meaning": "음악이 수집하다 외부에 바다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 258,
+    "question": "JOURNALRECORDALONGLEGEND",
+    "answer": "journal record along legend",
+    "korean_meaning": "저널이 기록하다 따라 전설",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 259,
+    "question": "MOUNTAINCHALLENGETHROUGHOUTHISTORY",
+    "answer": "mountain challenge throughout history",
+    "korean_meaning": "산이 도전하다 전역에 역사",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 260,
+    "question": "STUDENTDESIGNBETWEENMUSIC",
+    "answer": "student design between music",
+    "korean_meaning": "학생이 설계하다 사이에 음악",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 261,
+    "question": "CITYEXAMINEALTHOUGHDOCTORLEARN",
+    "answer": "city examine although doctor learn",
+    "korean_meaning": "도시가 조사하다 비록 의사 배우다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 262,
+    "question": "HISTORYCONTROLTHEREFOREMUSIC",
+    "answer": "history control therefore music",
+    "korean_meaning": "역사가 통제하다 그러므로 음악",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 263,
+    "question": "TEACHERGUIDEALTHOUGHGARDENINVENT",
+    "answer": "teacher guide although garden invent",
+    "korean_meaning": "선생님이 안내하다 비록 정원 발명하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 264,
+    "question": "BRIDGEASSEMBLEBUTOCEANOBSERVE",
+    "answer": "bridge assemble but ocean observe",
+    "korean_meaning": "다리가 조립하다 하지만 바다 관찰하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 265,
+    "question": "COUNTRYCOMPAREALTHOUGHSTUDENTLEARN",
+    "answer": "country compare although student learn",
+    "korean_meaning": "나라가 비교하다 비록 학생 배우다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 266,
+    "question": "PLANETREPORTNEVERTHELESSSTUDENTTEACH",
+    "answer": "planet report nevertheless student teach",
+    "korean_meaning": "행성이 보고하다 그럼에도 불구하고 학생 가르치다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 267,
+    "question": "DOCTORTRAVELALTHOUGHTEACHERLEARN",
+    "answer": "doctor travel although teacher learn",
+    "korean_meaning": "의사가 여행하다 비록 선생님 배우다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 268,
+    "question": "DOCTORTRAVELSTILLTEACHERTEACH",
+    "answer": "doctor travel still teacher teach",
+    "korean_meaning": "의사가 여행하다 여전히 선생님 가르치다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 269,
+    "question": "DOCTORSTUDYTHEREFOREVILLAGECREATE",
+    "answer": "doctor study therefore village create",
+    "korean_meaning": "의사가 연구하다 그러므로 마을 창조하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 270,
+    "question": "KNOWLEDGECONNECTOTHERWISESTUDENT",
+    "answer": "knowledge connect otherwise student",
+    "korean_meaning": "지식이 연결하다 그렇지 않으면 학생",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 271,
+    "question": "VILLAGEINVENTBECAUSESTUDENTTEACH",
+    "answer": "village invent because student teach",
+    "korean_meaning": "마을이 발명하다 때문에 학생 가르치다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 272,
+    "question": "OCEANDESIGNBECAUSEPLANETOBSERVE",
+    "answer": "ocean design because planet observe",
+    "korean_meaning": "바다가 설계하다 때문에 행성 관찰하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 273,
+    "question": "STUDENTSTUDYBECAUSEDOCTORTEACH",
+    "answer": "student study because doctor teach",
+    "korean_meaning": "학생이 연구하다 때문에 의사 가르치다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 274,
+    "question": "STUDENTTEACHBECAUSEDOCTORLEARN",
+    "answer": "student teach because doctor learn",
+    "korean_meaning": "학생이 가르치다 때문에 의사 배우다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 275,
+    "question": "MEMORYTRANSLATEBECAUSEBRIDGEESTIMATE",
+    "answer": "memory translate because bridge estimate",
+    "korean_meaning": "기억이 번역하다 때문에 다리 추정하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 276,
+    "question": "TEACHERSTUDYBECAUSESTUDENTTEACH",
+    "answer": "teacher study because student teach",
+    "korean_meaning": "선생님이 연구하다 때문에 학생 가르치다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 277,
+    "question": "PALACEREPORTBECAUSEMEMORYCOMPARE",
+    "answer": "palace report because memory compare",
+    "korean_meaning": "궁전이 보고하다 때문에 기억 비교하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 278,
+    "question": "MOUNTAINREPORTBECAUSESTUDENTSTUDY",
+    "answer": "mountain report because student study",
+    "korean_meaning": "산이 보고하다 때문에 학생 연구하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 279,
+    "question": "BRIDGEEXPLOREBECAUSEDOCTORTEACH",
+    "answer": "bridge explore because doctor teach",
+    "korean_meaning": "다리가 탐험하다 때문에 의사 가르치다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 280,
+    "question": "STUDENTLEARNBECAUSEDOCTORGUIDE",
+    "answer": "student learn because doctor guide",
+    "korean_meaning": "학생이 배우다 때문에 의사 안내하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 281,
+    "question": "STUDENTTRAVELWHILECASTLEEXPLORE",
+    "answer": "student travel while castle explore",
+    "korean_meaning": "학생이 여행하다 하는 동안 성 탐험하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 282,
+    "question": "AIRPLANEDESIGNWHILEUNIVERSITYDEVELOP",
+    "answer": "airplane design while university develop",
+    "korean_meaning": "비행기가 설계하다 하는 동안 대학교 발전하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 283,
+    "question": "MUSICORGANIZEWHILETEACHERSTUDY",
+    "answer": "music organize while teacher study",
+    "korean_meaning": "음악이 조직하다 하는 동안 선생님 연구하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 284,
+    "question": "GARDENCONNECTWHILESTUDENTSTUDY",
+    "answer": "garden connect while student study",
+    "korean_meaning": "정원이 연결하다 하는 동안 학생 연구하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 285,
+    "question": "STUDENTSTUDYWHILEDOCTORGUIDE",
+    "answer": "student study while doctor guide",
+    "korean_meaning": "학생이 연구하다 하는 동안 의사 안내하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 286,
+    "question": "UNIVERSITYREPORTWHILEMOUNTAINDEVELOP",
+    "answer": "university report while mountain develop",
+    "korean_meaning": "대학교가 보고하다 하는 동안 산 발전하다",
+    "ascii_art": "  /\\_/\\\n ( o.o )\n  > ^ <"
+  },
+  {
+    "id": 287,
+    "question": "TEACHERGUIDEWHILEDOCTORLEARN",
+    "answer": "teacher guide while doctor learn",
+    "korean_meaning": "선생님이 안내하다 하는 동안 의사 배우다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 288,
+    "question": "DOCTORLEARNWHILESTUDENTSTUDY",
+    "answer": "doctor learn while student study",
+    "korean_meaning": "의사가 배우다 하는 동안 학생 연구하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 289,
+    "question": "PICTUREREPORTWHILECOMMUNITYASSEMBLE",
+    "answer": "picture report while community assemble",
+    "korean_meaning": "그림이 보고하다 하는 동안 공동체 조립하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 290,
+    "question": "FESTIVALDECIDEWHILEDOCTORTEACH",
+    "answer": "festival decide while doctor teach",
+    "korean_meaning": "축제가 결정하다 하는 동안 의사 가르치다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 291,
+    "question": "DOCTORGUIDETOTRAVEL",
+    "answer": "doctor guide to travel",
+    "korean_meaning": "의사가 안내하다 위해 여행하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 292,
+    "question": "PLANETOBSERVETOREFLECT",
+    "answer": "planet observe to reflect",
+    "korean_meaning": "행성이 관찰하다 위해 반영하다",
+    "ascii_art": "   ___\n  /   \\\n |     |\n  \\___/"
+  },
+  {
+    "id": 293,
+    "question": "DOCTORTRAVELTOCREATE",
+    "answer": "doctor travel to create",
+    "korean_meaning": "의사가 여행하다 위해 창조하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 294,
+    "question": "STUDENTTRAVELTOANALYZE",
+    "answer": "student travel to analyze",
+    "korean_meaning": "학생이 여행하다 위해 분석하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 295,
+    "question": "DOCTORTEACHTODEVELOP",
+    "answer": "doctor teach to develop",
+    "korean_meaning": "의사가 가르치다 위해 발전하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 296,
+    "question": "GALAXYSIMULATETOANALYZE",
+    "answer": "galaxy simulate to analyze",
+    "korean_meaning": "은하가 모의하다 위해 분석하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 297,
+    "question": "STUDENTTRAVELTOSOLVE",
+    "answer": "student travel to solve",
+    "korean_meaning": "학생이 여행하다 위해 해결하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 298,
+    "question": "DOCTORSTUDYTOINVENT",
+    "answer": "doctor study to invent",
+    "korean_meaning": "의사가 연구하다 위해 발명하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 299,
+    "question": "GALAXYDESTROYTOASSEMBLE",
+    "answer": "galaxy destroy to assemble",
+    "korean_meaning": "은하가 파괴하다 위해 조립하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 300,
+    "question": "TEMPLEMODIFYTOASSEMBLE",
+    "answer": "temple modify to assemble",
+    "korean_meaning": "사원이 수정하다 위해 조립하다",
+    "ascii_art": "   \\/\n   /\\\n  //\\\\\n || ||"
+  },
+  {
+    "id": 301,
+    "question": "THEORETICALCONSCIOUSNESSTRANSCENDPSYCHOLOGICALLY",
+    "answer": "theoretical consciousness transcend psychologically",
+    "korean_meaning": "이론적인 의식이 초월하다 심리적으로",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 302,
+    "question": "PHILOSOPHICALCONSCIOUSNESSTRANSCENDABSTRACTLY",
+    "answer": "philosophical consciousness transcend abstractly",
+    "korean_meaning": "철학적인 의식이 초월하다 추상적으로",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 303,
+    "question": "PARADOXICALIMAGINATIONCALCULATEESSENTIALLY",
+    "answer": "paradoxical imagination calculate essentially",
+    "korean_meaning": "역설적인 imagination 계산하다 본질적으로",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 304,
+    "question": "TRANSCENDENTALHARMONYSPECULATELOGICALLY",
+    "answer": "transcendental harmony speculate logically",
+    "korean_meaning": "초월적인 조화가 추측하다 논리적으로",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 305,
+    "question": "PHILOSOPHICALCONSCIOUSNESSCONTEMPLATEPHILOSOPHICALLY",
+    "answer": "philosophical consciousness contemplate philosophically",
+    "korean_meaning": "철학적인 의식이 숙고하다 철학적으로",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 306,
+    "question": "HARMONIOUSCONSCIOUSNESSCONTEMPLATEINHERENTLY",
+    "answer": "harmonious consciousness contemplate inherently",
+    "korean_meaning": "조화로운 의식이 숙고하다 내재적으로",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 307,
+    "question": "SYNTHETICMECHANISMDECONSTRUCTORGANICALLY",
+    "answer": "synthetic mechanism deconstruct organically",
+    "korean_meaning": "합성의 메커니즘이 해체하다 유기적으로",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 308,
+    "question": "ONTOLOGICALCONSCIOUSNESSPHILOSOPHIZEINHERENTLY",
+    "answer": "ontological consciousness philosophize inherently",
+    "korean_meaning": "존재론적인 의식이 철학적으로 탐구하다 내재적으로",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 309,
+    "question": "INTUITIVEARCHITECTUREEVALUATEDIMENSIONALLY",
+    "answer": "intuitive architecture evaluate dimensionally",
+    "korean_meaning": "직관적인 건축이 평가하다 차원적으로",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 310,
+    "question": "TRANSCENDENTALDIMENSIONSYNTHESIZEPARADOXICALLY",
+    "answer": "transcendental dimension synthesize paradoxically",
+    "korean_meaning": "초월적인 차원이 종합하다 역설적으로",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 311,
+    "question": "COSMOLOGICALRESONANCEINVESTIGATEONTOLOGY",
+    "answer": "cosmological resonance investigate ontology",
+    "korean_meaning": "우주론적인 공명이 조사하다 존재론",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 312,
+    "question": "HARMONIOUSPSYCHOLOGYDECONSTRUCTARCHITECTURE",
+    "answer": "harmonious psychology deconstruct architecture",
+    "korean_meaning": "조화로운 심리학이 해체하다 건축",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 313,
+    "question": "ABSTRACTCONSCIOUSNESSDECONSTRUCTSYMPHONY",
+    "answer": "abstract consciousness deconstruct symphony",
+    "korean_meaning": "추상적인 의식이 해체하다 교향곡",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 314,
+    "question": "ABSTRACTCONSCIOUSNESSORCHESTRATEEQUILIBRIUM",
+    "answer": "abstract consciousness orchestrate equilibrium",
+    "korean_meaning": "추상적인 의식이 조직하다 균형",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 315,
+    "question": "ALGORITHMICDIMENSIONEVALUATEMETAPHYSICS",
+    "answer": "algorithmic dimension evaluate metaphysics",
+    "korean_meaning": "알고리즘의 차원이 평가하다 형이상학",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 316,
+    "question": "ONTOLOGICALEPISTEMOLOGYSPECULATESYNTAX",
+    "answer": "ontological epistemology speculate syntax",
+    "korean_meaning": "존재론적인 인식론이 추측하다 구문론",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 317,
+    "question": "INTRICATEHYPOTHESISINVESTIGATEMETAPHOR",
+    "answer": "intricate hypothesis investigate metaphor",
+    "korean_meaning": "복잡한 가설이 조사하다 은유",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 318,
+    "question": "CONSCIOUSNESSREVOLUTIONIZEEPISTEMOLOGY",
+    "answer": "consciousness revolutionize epistemology",
+    "korean_meaning": "의식이 혁신하다 인식론",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 319,
+    "question": "TRANSCENDENTALCONSCIOUSNESSCONTEMPLATEAESTHETICS",
+    "answer": "transcendental consciousness contemplate aesthetics",
+    "korean_meaning": "초월적인 의식이 숙고하다 미학",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 320,
+    "question": "EVOLUTIONARYARCHITECTUREDECONSTRUCTALGORITHM",
+    "answer": "evolutionary architecture deconstruct algorithm",
+    "korean_meaning": "진화적인 건축이 해체하다 알고리즘",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 321,
+    "question": "AXIOMATICPROFOUNDEXISTENCETHEORIZESYSTEMATICALLY",
+    "answer": "axiomatic profound existence theorize systematically",
+    "korean_meaning": "공리적인 심오한 존재가 이론화하다 체계적으로",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 322,
+    "question": "ONTOLOGICALEVOLUTIONARYCONSCIOUSNESSCONTEMPLATE",
+    "answer": "ontological evolutionary consciousness contemplate",
+    "korean_meaning": "존재론적인 진화적인 의식이 숙고하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 323,
+    "question": "PHENOMENALCYBERNETICABSTRACTIONDIFFERENTIATE",
+    "answer": "phenomenal cybernetic abstraction differentiate",
+    "korean_meaning": "경이로운 사이버네틱의 추상이 구별하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 324,
+    "question": "AMBIGUOUSTRANSCENDENTALCONSCIOUSNESSTRANSCEND",
+    "answer": "ambiguous transcendental consciousness transcend",
+    "korean_meaning": "애매한 초월적인 의식이 초월하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 325,
+    "question": "CYBERNETICDIMENSIONALECOLOGYTHEORIZEPSYCHOLOGICALLY",
+    "answer": "cybernetic dimensional ecology theorize psychologically",
+    "korean_meaning": "사이버네틱의 차원의 생태학이 이론화하다 심리적으로",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 326,
+    "question": "COMPREHENSIVESYSTEMATICCONSCIOUSNESSCONTEMPLATE",
+    "answer": "comprehensive systematic consciousness contemplate",
+    "korean_meaning": "포괄적인 체계적인 의식이 숙고하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 327,
+    "question": "DIMENSIONALCOSMOLOGICALCONSCIOUSNESSTRANSCEND",
+    "answer": "dimensional cosmological consciousness transcend",
+    "korean_meaning": "차원의 우주론적인 의식이 초월하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 328,
+    "question": "ABSTRACTTHEORETICALCIVILIZATIONSPECULATE",
+    "answer": "abstract theoretical civilization speculate",
+    "korean_meaning": "추상적인 이론적인 문명이 추측하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 329,
+    "question": "INTUITIVEMETAPHYSICALANTHROPOLOGYSPECULATE",
+    "answer": "intuitive metaphysical anthropology speculate",
+    "korean_meaning": "직관적인 형이상학적인 인류학이 추측하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 330,
+    "question": "INTRICATEENIGMATICMORALITYREVOLUTIONIZE",
+    "answer": "intricate enigmatic morality revolutionize",
+    "korean_meaning": "복잡한 불가사의한 도덕성이 혁신하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 331,
+    "question": "CONSCIOUSNESSPHILOSOPHICALLYPHILOSOPHIZE",
+    "answer": "consciousness philosophically philosophize",
+    "korean_meaning": "의식이 철학적으로 철학적으로 탐구하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 332,
+    "question": "PARADOXICALCONSCIOUSNESSDIMENSIONALLYTRANSCEND",
+    "answer": "paradoxical consciousness dimensionally transcend",
+    "korean_meaning": "역설적인 의식이 차원적으로 초월하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 333,
+    "question": "REFLECTIVECONSCIOUSNESSLOGICALLYTRANSCEND",
+    "answer": "reflective consciousness logically transcend",
+    "korean_meaning": "사색적인 의식이 논리적으로 초월하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 334,
+    "question": "ALGORITHMICCOMPLEXITYANALYTICALLYEVALUATE",
+    "answer": "algorithmic complexity analytically evaluate",
+    "korean_meaning": "알고리즘의 복잡성이 분석적으로 평가하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 335,
+    "question": "COSMOLOGICALCONSCIOUSNESSESSENTIALLYTRANSCEND",
+    "answer": "cosmological consciousness essentially transcend",
+    "korean_meaning": "우주론적인 의식이 본질적으로 초월하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 336,
+    "question": "AMBIGUOUSHARMONYABSTRACTLYSYNTHESIZEMETAPHYSICALLY",
+    "answer": "ambiguous harmony abstractly synthesize metaphysically",
+    "korean_meaning": "애매한 조화가 추상적으로 종합하다 형이상학적으로",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 337,
+    "question": "CONSCIOUSNESSTHEORETICALLYPHILOSOPHIZE",
+    "answer": "consciousness theoretically philosophize",
+    "korean_meaning": "의식이 이론적으로 철학적으로 탐구하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 338,
+    "question": "PHENOMENALMETAPHORMETAPHYSICALLYTHEORIZE",
+    "answer": "phenomenal metaphor metaphysically theorize",
+    "korean_meaning": "경이로운 은유가 형이상학적으로 이론화하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 339,
+    "question": "INTUITIVECOMPLEXITYPHILOSOPHICALLYRECONSTRUCT",
+    "answer": "intuitive complexity philosophically reconstruct",
+    "korean_meaning": "직관적인 복잡성이 철학적으로 재구성하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 340,
+    "question": "CYBERNETICCONSCIOUSNESSLOGICALLYPHILOSOPHIZE",
+    "answer": "cybernetic consciousness logically philosophize",
+    "korean_meaning": "사이버네틱의 의식이 논리적으로 철학적으로 탐구하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 341,
+    "question": "SYNTHETICCONSCIOUSNESSHYPOTHESIZESEMANTICS",
+    "answer": "synthetic consciousness hypothesize semantics",
+    "korean_meaning": "합성의 의식이 가설을 세우다 의미론",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 342,
+    "question": "CYBERNETICCONSCIOUSNESSSYNTHESIZEARCHITECTURE",
+    "answer": "cybernetic consciousness synthesize architecture",
+    "korean_meaning": "사이버네틱의 의식이 종합하다 건축",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 343,
+    "question": "TRANSCENDENTALRHETORICDECIPHERCOMPLEXITY",
+    "answer": "transcendental rhetoric decipher complexity",
+    "korean_meaning": "초월적인 수사학이 해독하다 복잡성",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 344,
+    "question": "IMAGINARYAMBIGUOUSSYMPHONYARTICULATEMETAPHOR",
+    "answer": "imaginary ambiguous symphony articulate metaphor",
+    "korean_meaning": "상상의 애매한 교향곡이 명확히 표현하다 은유",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 345,
+    "question": "CYBERNETICCONSCIOUSNESSEVALUATEMECHANISM",
+    "answer": "cybernetic consciousness evaluate mechanism",
+    "korean_meaning": "사이버네틱의 의식이 평가하다 메커니즘",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 346,
+    "question": "DIMENSIONALCONSCIOUSNESSQUANTIFYEXISTENCE",
+    "answer": "dimensional consciousness quantify existence",
+    "korean_meaning": "차원의 의식이 수량화하다 존재",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 347,
+    "question": "DIMENSIONALCONSCIOUSNESSARTICULATEAESTHETICS",
+    "answer": "dimensional consciousness articulate aesthetics",
+    "korean_meaning": "차원의 의식이 명확히 표현하다 미학",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 348,
+    "question": "ALGORITHMICCONSCIOUSNESSDECONSTRUCTNEUROSCIENCE",
+    "answer": "algorithmic consciousness deconstruct neuroscience",
+    "korean_meaning": "알고리즘의 의식이 해체하다 신경과학",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 349,
+    "question": "PHENOMENALTHEORETICALPHENOMENONCALCULATESYNTAX",
+    "answer": "phenomenal theoretical phenomenon calculate syntax",
+    "korean_meaning": "경이로운 이론적인 현상이 계산하다 구문론",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 350,
+    "question": "REFLECTIVEIMAGINATIONPOSTULATETELEOLOGY",
+    "answer": "reflective imagination postulate teleology",
+    "korean_meaning": "사색적인 imagination 가정하다 목적론이",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 351,
+    "question": "CONSCIOUSNESSDIFFERENTIATEAROUNDEXISTENCE",
+    "answer": "consciousness differentiate around existence",
+    "korean_meaning": "의식이 구별하다 주변에 존재",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 352,
+    "question": "INTERPRETATIONCOMPREHENDABOVEEPISTEMOLOGY",
+    "answer": "interpretation comprehend above epistemology",
+    "korean_meaning": "해석이 이해하다 위에 인식론",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 353,
+    "question": "SYSTEMATICCONSCIOUSNESSCOMPREHENDONSYMPHONY",
+    "answer": "systematic consciousness comprehend on symphony",
+    "korean_meaning": "체계적인 의식이 이해하다 위에 교향곡",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 354,
+    "question": "CONSCIOUSNESSRECONSTRUCTUNDERANTHROPOLOGY",
+    "answer": "consciousness reconstruct under anthropology",
+    "korean_meaning": "의식이 재구성하다 아래에 인류학",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 355,
+    "question": "ONTOLOGICALCONSCIOUSNESSDECIPHERAROUNDRESONANCE",
+    "answer": "ontological consciousness decipher around resonance",
+    "korean_meaning": "존재론적인 의식이 해독하다 주변에 공명",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 356,
+    "question": "EVOLUTIONARYCONSCIOUSNESSCALCULATEOUTSIDEREALITY",
+    "answer": "evolutionary consciousness calculate outside reality",
+    "korean_meaning": "진화적인 의식이 계산하다 외부에 현실",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 357,
+    "question": "AESTHETICSDIFFERENTIATEBETWEENPERCEPTION",
+    "answer": "aesthetics differentiate between perception",
+    "korean_meaning": "미학이 구별하다 사이에 인식",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 358,
+    "question": "CONSCIOUSNESSINTEGRATEALONGIMAGINATION",
+    "answer": "consciousness integrate along imagination",
+    "korean_meaning": "의식이 통합하다 따라 imagination",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 359,
+    "question": "CONSCIOUSNESSAPPROXIMATEBEYONDRHETORIC",
+    "answer": "consciousness approximate beyond rhetoric",
+    "korean_meaning": "의식이 근사하다 너머에 수사학",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 360,
+    "question": "AMBIGUOUSEXISTENCESYNTHESIZENEARCOMPLEXITY",
+    "answer": "ambiguous existence synthesize near complexity",
+    "korean_meaning": "애매한 존재가 종합하다 근처에 복잡성",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 361,
+    "question": "CONSCIOUSNESSCONTEMPLATEMEANWHILEAESTHETICSHYPOTHESIZE",
+    "answer": "consciousness contemplate meanwhile aesthetics hypothesize",
+    "korean_meaning": "의식이 숙고하다 그동안 미학 가설을 세우다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 362,
+    "question": "SEMIOTICSSPECULATESTILLEQUILIBRIUMAPPROXIMATE",
+    "answer": "semiotics speculate still equilibrium approximate",
+    "korean_meaning": "기호학이 추측하다 여전히 균형 근사하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 363,
+    "question": "CONSCIOUSNESSPHILOSOPHIZESTILLCOSMOLOGYDIFFERENTIATE",
+    "answer": "consciousness philosophize still cosmology differentiate",
+    "korean_meaning": "의식이 철학적으로 탐구하다 여전히 우주론 구별하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 364,
+    "question": "RHETORICSYMBOLIZENEVERTHELESSCONSCIOUSNESSTRANSCEND",
+    "answer": "rhetoric symbolize nevertheless consciousness transcend",
+    "korean_meaning": "수사학이 상징하다 그럼에도 불구하고 의식 초월하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 365,
+    "question": "CONSCIOUSNESSPHILOSOPHIZEOTHERWISEDIALECTICSYNTHESIZE",
+    "answer": "consciousness philosophize otherwise dialectic synthesize",
+    "korean_meaning": "의식이 철학적으로 탐구하다 그렇지 않으면 변증법 종합하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 366,
+    "question": "CONSCIOUSNESSPHILOSOPHIZEBUTEQUILIBRIUMSYMBOLIZE",
+    "answer": "consciousness philosophize but equilibrium symbolize",
+    "korean_meaning": "의식이 철학적으로 탐구하다 하지만 균형 상징하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 367,
+    "question": "LITERATUREPOSTULATENEVERTHELESSECOLOGYSYNTHESIZE",
+    "answer": "literature postulate nevertheless ecology synthesize",
+    "korean_meaning": "문학이 가정하다 그럼에도 불구하고 생태학 종합하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 368,
+    "question": "REALITYINVESTIGATEMOREOVERCONSCIOUSNESSCONTEMPLATE",
+    "answer": "reality investigate moreover consciousness contemplate",
+    "korean_meaning": "현실이 조사하다 게다가 의식 숙고하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 369,
+    "question": "EPISTEMOLOGYSPECULATEALTHOUGHMORALITYSYNTHESIZE",
+    "answer": "epistemology speculate although morality synthesize",
+    "korean_meaning": "인식론이 추측하다 비록 도덕성 종합하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 370,
+    "question": "CONSCIOUSNESSCONTEMPLATETHENCONSCIOUSNESS1PHILOSOPHIZE",
+    "answer": "consciousness contemplate then consciousness1 philosophize",
+    "korean_meaning": "의식이 숙고하다 그 후에 의식1 철학적으로 탐구하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 371,
+    "question": "CONSCIOUSNESSCONTEMPLATEBECAUSEQUANTUMORCHESTRATE",
+    "answer": "consciousness contemplate because quantum orchestrate",
+    "korean_meaning": "의식이 숙고하다 때문에 양자 조직하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 372,
+    "question": "QUANTUMMANIPULATEBECAUSECONSCIOUSNESSTRANSCEND",
+    "answer": "quantum manipulate because consciousness transcend",
+    "korean_meaning": "양자가 조작하다 때문에 의식 초월하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 373,
+    "question": "CONSCIOUSNESSTRANSCENDBECAUSECONSCIOUSNESS1CONTEMPLATE",
+    "answer": "consciousness transcend because consciousness1 contemplate",
+    "korean_meaning": "의식이 초월하다 때문에 의식1 숙고하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 374,
+    "question": "SEMANTICSPOSTULATEBECAUSECONSCIOUSNESSPHILOSOPHIZE",
+    "answer": "semantics postulate because consciousness philosophize",
+    "korean_meaning": "의미론이 가정하다 때문에 의식 철학적으로 탐구하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 375,
+    "question": "PHENOMENONMANIPULATEBECAUSECOMPLEXITYREVOLUTIONIZE",
+    "answer": "phenomenon manipulate because complexity revolutionize",
+    "korean_meaning": "현상이 조작하다 때문에 복잡성 혁신하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 376,
+    "question": "METAPHYSICSINVESTIGATEBECAUSECONSCIOUSNESSCONTEMPLATE",
+    "answer": "metaphysics investigate because consciousness contemplate",
+    "korean_meaning": "형이상학이 조사하다 때문에 의식 숙고하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 377,
+    "question": "EXISTENCEFORMULATEBECAUSEMETAPHORCOMPREHEND",
+    "answer": "existence formulate because metaphor comprehend",
+    "korean_meaning": "존재가 공식화하다 때문에 은유 이해하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 378,
+    "question": "CONSCIOUSNESSTRANSCENDBECAUSECONSCIOUSNESS1CONTEMPLATE",
+    "answer": "consciousness transcend because consciousness1 contemplate",
+    "korean_meaning": "의식이 초월하다 때문에 의식1 숙고하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 379,
+    "question": "CONSCIOUSNESSCONTEMPLATEBECAUSECONSCIOUSNESS1TRANSCEND",
+    "answer": "consciousness contemplate because consciousness1 transcend",
+    "korean_meaning": "의식이 숙고하다 때문에 의식1 초월하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 380,
+    "question": "COMPLEXITYCONCEPTUALIZEBECAUSECONSCIOUSNESSTRANSCEND",
+    "answer": "complexity conceptualize because consciousness transcend",
+    "korean_meaning": "복잡성이 개념화하다 때문에 의식 초월하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 381,
+    "question": "CONSCIOUSNESSPHILOSOPHIZEWHILECONSCIOUSNESS1TRANSCEND",
+    "answer": "consciousness philosophize while consciousness1 transcend",
+    "korean_meaning": "의식이 철학적으로 탐구하다 하는 동안 의식1 초월하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 382,
+    "question": "CONSCIOUSNESSTRANSCENDWHILEEXISTENCEQUANTIFY",
+    "answer": "consciousness transcend while existence quantify",
+    "korean_meaning": "의식이 초월하다 하는 동안 존재 수량화하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 383,
+    "question": "ANTHROPOLOGYHYPOTHESIZEWHILEPSYCHOLOGYFORMULATE",
+    "answer": "anthropology hypothesize while psychology formulate",
+    "korean_meaning": "인류학이 가설을 세우다 하는 동안 심리학 공식화하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 384,
+    "question": "CONSCIOUSNESSPHILOSOPHIZEWHILECONSCIOUSNESS1CONTEMPLATE",
+    "answer": "consciousness philosophize while consciousness1 contemplate",
+    "korean_meaning": "의식이 철학적으로 탐구하다 하는 동안 의식1 숙고하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 385,
+    "question": "CONSCIOUSNESSPHILOSOPHIZEWHILENEUROSCIENCEINTEGRATE",
+    "answer": "consciousness philosophize while neuroscience integrate",
+    "korean_meaning": "의식이 철학적으로 탐구하다 하는 동안 신경과학 통합하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 386,
+    "question": "PARADOXRECONSTRUCTWHILECONSCIOUSNESSPHILOSOPHIZE",
+    "answer": "paradox reconstruct while consciousness philosophize",
+    "korean_meaning": "역설이 재구성하다 하는 동안 의식 철학적으로 탐구하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 387,
+    "question": "CONSCIOUSNESSTRANSCENDWHILEDIALECTICSYMBOLIZE",
+    "answer": "consciousness transcend while dialectic symbolize",
+    "korean_meaning": "의식이 초월하다 하는 동안 변증법 상징하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 388,
+    "question": "QUANTUMFORMULATEWHILECONSCIOUSNESSCONTEMPLATE",
+    "answer": "quantum formulate while consciousness contemplate",
+    "korean_meaning": "양자가 공식화하다 하는 동안 의식 숙고하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 389,
+    "question": "METAPHORFORMULATEWHILECONSCIOUSNESSCONTEMPLATE",
+    "answer": "metaphor formulate while consciousness contemplate",
+    "korean_meaning": "은유가 공식화하다 하는 동안 의식 숙고하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 390,
+    "question": "CONSCIOUSNESSPHILOSOPHIZEWHILECONSCIOUSNESS1CONTEMPLATE",
+    "answer": "consciousness philosophize while consciousness1 contemplate",
+    "korean_meaning": "의식이 철학적으로 탐구하다 하는 동안 의식1 숙고하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 391,
+    "question": "SYMMETRICALCONSCIOUSNESSTRANSCENDTOSYMBOLIZE",
+    "answer": "symmetrical consciousness transcend to symbolize",
+    "korean_meaning": "대칭적인 의식이 초월하다 위해 상징하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 392,
+    "question": "DIALECTICALCONSCIOUSNESSTRANSCENDTOMANIPULATE",
+    "answer": "dialectical consciousness transcend to manipulate",
+    "korean_meaning": "변증법적인 의식이 초월하다 위해 조작하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 393,
+    "question": "PARADOXICALCYBERNETICSINVESTIGATETOSYNTHESIZE",
+    "answer": "paradoxical cybernetics investigate to synthesize",
+    "korean_meaning": "역설적인 사이버네틱스가 조사하다 위해 종합하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 394,
+    "question": "PARADOXICALSOCIOLOGYARTICULATETOHYPOTHESIZE",
+    "answer": "paradoxical sociology articulate to hypothesize",
+    "korean_meaning": "역설적인 사회학이 명확히 표현하다 위해 가설을 세우다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 395,
+    "question": "ESOTERICRHETORICQUANTIFYTOVISUALIZEORGANICALLY",
+    "answer": "esoteric rhetoric quantify to visualize organically",
+    "korean_meaning": "비밀스러운 수사학이 수량화하다 위해 시각화하다 유기적으로",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 396,
+    "question": "COSMOLOGICALPHILOSOPHYSYMBOLIZETOORCHESTRATE",
+    "answer": "cosmological philosophy symbolize to orchestrate",
+    "korean_meaning": "우주론적인 철학이 상징하다 위해 조직하다",
+    "ascii_art": "  *\n ***\n*****"
+  },
+  {
+    "id": 397,
+    "question": "EVOLUTIONARYSOCIOLOGYAPPROXIMATETOSPECULATE",
+    "answer": "evolutionary sociology approximate to speculate",
+    "korean_meaning": "진화적인 사회학이 근사하다 위해 추측하다",
+    "ascii_art": "  /^\\\n /   \\\n/_____\\"
+  },
+  {
+    "id": 398,
+    "question": "DIMENSIONALPARADIGMSYNTHESIZETOORCHESTRATE",
+    "answer": "dimensional paradigm synthesize to orchestrate",
+    "korean_meaning": "차원의 패러다임이 종합하다 위해 조직하다",
+    "ascii_art": "~~~~~\n ~~~\n  ~"
+  },
+  {
+    "id": 399,
+    "question": "CYBERNETICEPISTEMOLOGYSYNTHESIZETOSPECULATE",
+    "answer": "cybernetic epistemology synthesize to speculate",
+    "korean_meaning": "사이버네틱의 인식론이 종합하다 위해 추측하다",
+    "ascii_art": "(\\_/ )\n( •_•)\n/   \\"
+  },
+  {
+    "id": 400,
+    "question": "DIMENSIONALHYPOTHESISFORMULATETOHYPOTHESIZE",
+    "answer": "dimensional hypothesis formulate to hypothesize",
+    "korean_meaning": "차원의 가설이 공식화하다 위해 가설을 세우다",
+    "ascii_art": "  *\n ***\n*****"
+  }
+]

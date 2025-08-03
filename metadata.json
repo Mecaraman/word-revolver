@@ -1,0 +1,6 @@
+{
+  "name": "Word Revolver",
+  "description": "A western-themed word puzzle game where you solve phrases on a revolver cylinder. Aim, insert spaces, and solve 10 rounds against the clock to win!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
